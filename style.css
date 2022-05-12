@@ -9,7 +9,7 @@
 
 body {
   font-size: 100%;
-  background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+  background: linear-gradient(68.15deg, #073773 16.62%, #549bbe 85.61%);
 }
 
 .cabecalho {
@@ -108,7 +108,7 @@ body {
 .container-conteudo-sobre-mim {
   height: 450px;
   width: 600px;
-  background-color: #5c4649;
+  background-color: #07274f;
   position: absolute;
   top: 50vh;
   left: 50vh;
@@ -127,7 +127,7 @@ body {
 }
 
 .container-conteudo-sobre-mim:hover {
-  background-color: #ae3c4b;
+  background-color: #073773
 }
 
 .hide {
