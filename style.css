@@ -17,7 +17,7 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
-  padding: 24px;
+  padding: 10px;
 }
 
 .cabecalho-imagem {
@@ -95,6 +95,14 @@ body {
   height: 430px;
   border-radius: 50%;
   margin: 50px;
+  margin-bottom: 0px;
+  transition: ease-in-out 1.5s;
+}
+
+.conteudo-principal-imagem:hover {
+  height: 530px;
+  transform: rotate(1turn);
+  transition: ease-in-out 1.5s;
 }
 
 .container-conteudo-sobre-mim {
